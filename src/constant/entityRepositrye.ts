@@ -1,0 +1,12 @@
+export const adminRepositry = 'ADMIN_REPOSITORY';
+export const categoryRepositry = 'Category_REPOSITORY';
+export const categoryTranslationRepositry = 'Category_Translation_REPOSITORY';
+export const userRepositry = 'USER_REPOSITORY';
+export const userNameRepositry = 'USER_NAME_REPOSITORY';
+export const QuestionRepositry = 'QUESTION_REPOSITORY';
+export const QuestionVoiceRepositry = 'QUESTION_VOICE_REPOSITORY';
+export const QuestionImageRepositry = 'QUESTION_Image_REPOSITORY';
+export const QuestionLikeRepositry = 'QUESTION_LIKE_REPOSITORY';
+export const QuestionSaveRepositry = 'QUESTION_Save_REPOSITORY';
+export const AnswerRepositry = 'Answer_REPOSITORY';
+export const CategoryQuestionsReposirtry ="CategoryQuestions_Repository"
